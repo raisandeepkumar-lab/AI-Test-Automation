@@ -1,4 +1,4 @@
-python
+
 import pytest
 
 @pytest.mark.parametrize("input1, input2, expected_output", [
