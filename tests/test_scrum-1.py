@@ -1,4 +1,3 @@
-python
 import pytest
 
 def test_addition():
